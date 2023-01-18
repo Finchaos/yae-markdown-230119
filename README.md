@@ -1,4 +1,4 @@
-#    #                                    YaeAchievement
+#                                                      YaeAchievement
 
 - 支持导出所有类别的成就；
 - 支持官服，渠道服以及国际服；
