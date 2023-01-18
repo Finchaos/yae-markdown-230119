@@ -65,7 +65,7 @@ Seelie.me：
 
 ![image](https://github.com/Finchaos/markdown-test/blob/main/images/7.png)
 
-然后点击该网址https://seelie.me/settings，进入网页后选择导入，如下图所示。
+然后点击该网址https://seelie.me/settings, 进入网页后选择导入，如下图所示。
 
 ![image](https://github.com/Finchaos/markdown-test/blob/main/images/8.png)
 
