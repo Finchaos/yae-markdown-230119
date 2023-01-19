@@ -43,7 +43,7 @@
 
 点击进入游戏后原神闪退，工具会提示您选择导出至何种工具，如下图所示。
 
-![image](https://github.com/Finchaos/markdown-230119/blob/main/images/4.png)
+![image](https://github.com/Finchaos/yae-markdown-230119/blob/main/images/4.png)
 
 此时可根据自己的需要进行选择，一般推荐导出至[0]椰羊以及[4]表格文件（.csv）。
 
@@ -55,7 +55,7 @@
 
 Snap.Hutao：
 
-![image](https://github.com/Finchaos/yae-markdown-230119/blob/main/images/6.png)
+![image](https://github.com/Finchaos/yae-markdown-230119/blob/main//images/6.png)
 
 
 
